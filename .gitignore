@@ -1,0 +1,8 @@
+# Ignore IDE files
+.idea/
+
+
+# Ignore temporary files
+*.tmp
+
+gestion_magasine_config
